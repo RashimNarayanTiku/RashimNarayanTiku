@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <h1 align="center">Hi 👋, I'm Rashim Narayan Tiku</h1>
 <h3 align="center">I'm a Software Development Engineer. Loves everything computer related.</h3>
 <br>
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/RashimNarayanTiku/](https://github.com/RashimNarayanTiku/)
 
-- 💬 Ask me about **Meaning of Life, Interview Preparations, MLMs and Scams **
+- 💬 Ask me about **Meaning of Life, Interview Preparations, MLMs and Scams**
 
 - 📫 How to reach me **rashim.narayan.tiku@gmail.com**
 
@@ -44,5 +45,5 @@ Here are some ideas to get you started:
 <br>
 
 
-<p><img style="width:28rem; margin:0;" src="https://github-readme-stats.vercel.app/api?username=rashimnarayantiku&show_icons=true&locale=en" alt="rashimnarayantiku" />&nbsp;&nbsp;
-<img style="width:28rem; margin:0;" src="https://github-readme-streak-stats.herokuapp.com/?user=rashimnarayantiku&" alt="rashimnarayantiku" /></p>
+<p><img style="width:32rem; margin:0;" src="https://github-readme-stats.vercel.app/api?username=rashimnarayantiku&show_icons=true&locale=en" alt="rashimnarayantiku" /></p>
+<p><img style="width:32rem; margin:0;" src="https://github-readme-streak-stats.herokuapp.com/?user=rashimnarayantiku&" alt="rashimnarayantiku" /></p>
