@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Java 🍵**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RashimNarayanTiku/](https://github.com/RashimNarayanTiku/)
-
 - 💬 Ask me anything about **Software Development, Interview Preparations, Meaning of Life, Anime, MLMs...**
 
 - 📫 How to reach me **rashim.narayan.tiku@gmail.com**
