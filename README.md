@@ -3,15 +3,15 @@
 <h3 align="center">I'm a Software Development Engineer. Loves everything computer related.</h3>
 <br>
 
+- 🌍 Check out my [**Portfolio Website**](https://rashimnarayantiku.github.io)
+
 - 🔭 I’m currently working as **SDE Intern @ Amazon**
 
-- 🌱 I’m currently learning **3d website development using three.js**
-
-- 🤔 I’m looking for help with **See above 👆** 
+- 🌱 I’m currently learning **Java 🍵**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RashimNarayanTiku/](https://github.com/RashimNarayanTiku/)
 
-- 💬 Ask me about **Meaning of Life, Interview Preparations, MLMs and Scams**
+- 💬 Ask me anything about **Software Development, Interview Preparations, Meaning of Life, Anime, MLMs...**
 
 - 📫 How to reach me **rashim.narayan.tiku@gmail.com**
 
