@@ -20,18 +20,14 @@
 <p align="left"> 
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50"/> &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70"/>&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" width="70"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="50" />&nbsp;
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django" width="50"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60"/> &nbsp;&nbsp;
 <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="46">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="git" width="55"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70"/>&nbsp;&nbsp;
 </p>
 
 
