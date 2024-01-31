@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Developer @ AIRBUS**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS**, **React Native**
 
 - 💬 Ask me anything about **Software Development, Interview Preparations, Meaning of Life, Anime, MLMs...**
 
