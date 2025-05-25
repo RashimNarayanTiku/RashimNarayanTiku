@@ -5,7 +5,7 @@
 
 - 🌍 Check out my [**Portfolio Website**](https://rashimnarayantiku.github.io)
 
-- 🔭 I’m currently working as **Developer @ AIRBUS**
+- 🔭 I’m currently working as **Software Developer @ NVIDIA**
 
 - 🌱 I’m currently learning **AWS**, **React Native**
 
